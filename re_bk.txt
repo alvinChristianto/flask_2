@@ -10,7 +10,7 @@ html5lib==0.999999999
 idna==2.7
 ipaddress==1.0.17
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 keyring==10.4.0
 keyrings.alt==2.2
 lxml==4.0.0
