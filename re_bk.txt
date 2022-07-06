@@ -13,7 +13,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 keyring==10.4.0
 keyrings.alt==2.2
-lxml==4.0.0
+lxml==4.9.1
 MarkupSafe==1.0
 pycrypto==2.6.1
 pycurl==7.43.0
